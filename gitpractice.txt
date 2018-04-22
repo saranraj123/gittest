@@ -4,3 +4,5 @@ Welcome to practice git hub
 setup
 local repo
 push it to remote repo
+
+then do something
